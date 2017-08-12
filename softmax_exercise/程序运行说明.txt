@@ -1,0 +1,6 @@
+1、在实现Softmax回归的过程中，默认优化算法为L-BFGS，只需需运行softmaxExercise.m；
+   具体算法实现过程请看\minFunc\lbfgs.m。
+2、如需使用批量梯度下降算法，请运行softmaxExercise_BatchGD.m;
+   具体算法实现过程请看BatchGD.m;
+3、如需使用随机梯度下降算法，请运行softmaxExercise_StochGD.m;
+   具体算法实现过程请看StochGD.m;
